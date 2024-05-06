@@ -3,16 +3,16 @@
 Welcome traveler! 👋
 
 The goal of humblefrontiers is to be a hub for maximizing wellness in the world. We aim to do this by taking an interdisciplinary approach, levering engineering, 
-social sciences, natural sciences, computer science, philosophy, art and any other source of inspiration for how to model the problem of wellness, including 
+social sciences, natural sciences, computer science, philosophy, art and any other source of inspiration for modelling the problem of wellness, including 
 new research areas we may need to invent along the way.
 
 ## Mission
-More formally, the mission of humblefrontiers is to maximize the sum of all known wellness.
+More formally, the mission of humblefrontiers is to maximize the sum of all wellness.
 
 ## Why this mission?
-It's been our lived experiences that living a life that is aligned to wellness can be incredibly hard, even with the best intentions. It seems like at both 
+It's been our lived experiences that living a life that is aligned to wellness can often be incredibly hard, even with the best intentions. It seems like at both 
 an individual level and societal level, we're not really good at predicting what actions will be aligned to wellness and often make bad assuptions. Perhaps even 
-more challenging is that even if we have good ideas of what actions to take to align with our goals, we fail to comply with these stated desires even if we believe 
+more challenging is that even if we have good ideas of what actions to take, we fail to comply with these stated desires even if we believe 
 they align with our best interests.
 
 This misalignment with wellness is currently difficult to measure, but where we do have data does seem to paint a bleak picture. [TODO: Insert stats on wellness trends]
